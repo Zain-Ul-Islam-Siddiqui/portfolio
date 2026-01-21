@@ -7,16 +7,28 @@ Highly skilled in a variety of PCB design & SPICE simulation softwares as well a
 Proven history of ownership and results in multiple organisations. My primary focus is to expand my knowledge in as many areas as possible so as to better myself as a leader and ensure I am always pushing my potential further.
 
 ##  Work Experience
-###  Hardware Design Engineer | eSpark Consultancy Group | 2023 - 2024 | Karachi, Pakistan
-  ● Designed analog and digital circuits for low-noise ADC/DAC interfaces and improved signal integrity.
-  ● Performed board bring-up, debugging, and failure analysis using oscilloscopes and bench equipment, identifying root causes of failures.
-  ● Led motor-control and microcontroller-based product development, validating designs through LTSpice simulation and hardware testing.
-  ● Developed modular embedded firmware (C/C++) for ARM MCUs, integrating I2C/SPI/UART peripherals, cut system debugging time by ~50% during integration testing.
-  ● Designed multi-layer (Rigid & Flex) PCBs with EMC-conscious layouts, coordinating schematic-to-layout decisions to improve reliability and shorten design iteration cycles by ~30%.
-###  Electronics Engineer | Data Communication and Control | 2022 - 2023 | Karachi, Pakistan
-  ● Designed and tested high-power inverter and SMPS hardware, supporting motion-control applications and delivering efficient, thermally stable power stages.
-  ● Implemented microcontroller control logic for power electronics, validating switching behaviour through bench testing and waveform analysis to ensure reliable operation.
-  ● Engineered high-power inverter and SMPS hardware with EMC-aware PCB layouts, delivering robust and efficient power-stage performance.
-  ● Supported debugging and fault investigation of power electronics systems, applying root-cause analysis to resolve field and lab failures efficiently.
+###  Embedded Design Engineer | Upwork & Fiverr | 2022 - Present
 
+###  Hardware Design Engineer | eSpark Consultancy Group | 2023 - 2024 | Karachi, Pakistan
+  ● Designed analog and digital circuits for low-noise ADC/DAC interfaces and improved signal integrity.<br>
+  ● Performed board bring-up, debugging, and failure analysis using oscilloscopes and bench equipment, identifying root causes of failures.<br>
+  ● Led motor-control and microcontroller-based product development, validating designs through LTSpice simulation and hardware testing.<br>
+  ● Developed modular embedded firmware (C/C++) for ARM MCUs, integrating I2C/SPI/UART peripherals, cut system debugging time by ~50% during integration testing.<br>
+  ● Designed multi-layer (Rigid & Flex) PCBs with EMC-conscious layouts, coordinating schematic-to-layout decisions to improve reliability and shorten design iteration cycles by ~30%.<br>
+###  Electronics Engineer | Data Communication and Control | 2022 - 2023 | Karachi, Pakistan
+  ● Designed and tested high-power inverter and SMPS hardware, supporting motion-control applications and delivering efficient, thermally stable power stages.<br>
+  ● Implemented microcontroller control logic for power electronics, validating switching behaviour through bench testing and waveform analysis to ensure reliable operation.<br>
+  ● Engineered high-power inverter and SMPS hardware with EMC-aware PCB layouts, delivering robust and efficient power-stage performance.<br>
+  ● Supported debugging and fault investigation of power electronics systems, applying root-cause analysis to resolve field and lab failures efficiently.<br>
+###  Electronics Engineer | Woot Tech | Oct - Nov 2022 | Karachi, Pakistan
+  ● Engineered high-power inverter and SMPS hardware with EMC-aware PCB layouts, delivering robust and efficient power-stage performance.<br>
+  ● Supported debugging and fault investigation of power electronics systems, applying root-cause analysis to resolve field and lab failures efficiently.<br>
+  
 ##  Projects
+
+##  Education
+### MSc Microelectronic Systems | University of Liverpool | 2024 – 2025
+Dissertation: LoRa mesh network using ARM Cortex-M MCUs and Zephyr RTOS.<br>
+###  BSc in Electronics Engineering | Ghulam Ishaq Khan Institute | 2018–2022
+Dissertation: Rotary Inverted Pendulum (RIP) modelling and design using HIL and MATLAB.<br>
+
