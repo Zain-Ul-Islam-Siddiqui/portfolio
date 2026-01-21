@@ -27,10 +27,10 @@ Proven history of ownership and results in multiple organisations. My primary fo
   ● Supported debugging and fault investigation of power electronics systems, applying root-cause analysis to resolve field and lab failures efficiently.<br>
   
 ##  Projects
-<a href="https://github.com/Zain-Ul-Islam-Siddiqui/LoRa-Mesh-Network-Zephyr"> LoRa Mesh Network Using Zephyr RTOS</a><br>
-<a href="https://github.com/Zain-Ul-Islam-Siddiqui/Industrial-Robotic-Arm-Controller"> Industrial-Robotic-Arm-Controller</a><br>
-<a href="https://github.com/Zain-Ul-Islam-Siddiqui/Multi-Cell-Battery-Management-System"> Multi-Cell-Battery-Management-System</a><br>
-<a href="https://github.com/Zain-Ul-Islam-Siddiqui/Synchronous-Interleaved-Buck-Boost-Converter"> Synchronous-Interleaved-Buck-Boost-Converter</a><br>
+[LoRa Mesh Network Using Zephyr RTOS](https://github.com/Zain-Ul-Islam-Siddiqui/LoRa-Mesh-Network-Zephyr)<br>
+[Industrial-Robotic-Arm-Controller](https://github.com/Zain-Ul-Islam-Siddiqui/Industrial-Robotic-Arm-Controller)<br>
+[Multi-Cell-Battery-Management-System](https://github.com/Zain-Ul-Islam-Siddiqui/Multi-Cell-Battery-Management-System)<br>
+[Synchronous-Interleaved-Buck-Boost-Converter](https://github.com/Zain-Ul-Islam-Siddiqui/Synchronous-Interleaved-Buck-Boost-Converter)<br>
 
 ##  Education
 ### MSc Microelectronic Systems | University of Liverpool | 2024 – 2025
