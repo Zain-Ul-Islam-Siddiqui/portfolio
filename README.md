@@ -1,4 +1,6 @@
-#  About Me
+##  About Me
+<a href="https://www.linkedin.com/in/zainsiddiqui0071/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /><a>
+
 Hi! I am Zain — An Electronics & Embedded Systems Engineer based in the United Kingdom. 
 I am currently a recent graduate of University of Liverpool working towards developing next generation of embedded hardware solutions making custom hardware solutions cheaper, safer, and reliable.
 
@@ -25,6 +27,10 @@ Proven history of ownership and results in multiple organisations. My primary fo
   ● Supported debugging and fault investigation of power electronics systems, applying root-cause analysis to resolve field and lab failures efficiently.<br>
   
 ##  Projects
+<a href="https://github.com/Zain-Ul-Islam-Siddiqui/LoRa-Mesh-Network-Zephyr"> LoRa Mesh Network Using Zephyr RTOS</a><br>
+<a href="https://github.com/Zain-Ul-Islam-Siddiqui/Industrial-Robotic-Arm-Controller"> Industrial-Robotic-Arm-Controller</a><br>
+<a href="https://github.com/Zain-Ul-Islam-Siddiqui/Multi-Cell-Battery-Management-System"> Multi-Cell-Battery-Management-System</a><br>
+<a href="https://github.com/Zain-Ul-Islam-Siddiqui/Synchronous-Interleaved-Buck-Boost-Converter"> Synchronous-Interleaved-Buck-Boost-Converter</a><br>
 
 ##  Education
 ### MSc Microelectronic Systems | University of Liverpool | 2024 – 2025
@@ -32,3 +38,4 @@ Dissertation: LoRa mesh network using ARM Cortex-M MCUs and Zephyr RTOS.<br>
 ###  BSc in Electronics Engineering | Ghulam Ishaq Khan Institute | 2018–2022
 Dissertation: Rotary Inverted Pendulum (RIP) modelling and design using HIL and MATLAB.<br>
 
+##  Certifications
