@@ -40,8 +40,16 @@ I’m continuously developing my technical depth with the long-term goal of beco
 ##  Projects
 [LoRa Mesh Network Using Zephyr RTOS](https://github.com/Zain-Ul-Islam-Siddiqui/LoRa-Mesh-Network-Zephyr)<br>
 → Long-range multi-hop IoT communication network built on ARM Cortex-M microcontrollers and Zephyr RTOS.<br>
+## LoRa Shield (RFM95)
+![Alt text](LoRa_Node.png)
+
 [Industrial-Robotic-Arm-Controller](https://github.com/Zain-Ul-Islam-Siddiqui/Industrial-Robotic-Arm-Controller)<br>
 → High-accuracy multi-axis Motor control under high EMI conditions with CAN-FD daisy chaining and integrated sensing.<br>
+## Top Board
+![Alt text](D:\Resume\portfolio\MotorController_Top.png)
+## Bottom Board
+![Alt text](D:\Resume\portfolio\MotorController_Bottom.PNG)
+
 [Multi-Cell-Battery-Management-System](https://github.com/Zain-Ul-Islam-Siddiqui/Multi-Cell-Battery-Management-System)<br>
 → Multi-chemistry Battery Management System with balancing, fault detection, EMC-conscious analog front-end, protections, and telemetry.<br>
 [Synchronous-Interleaved-Buck-Boost-Converter](https://github.com/Zain-Ul-Islam-Siddiqui/Synchronous-Interleaved-Buck-Boost-Converter)<br>
