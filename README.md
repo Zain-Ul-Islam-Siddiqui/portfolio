@@ -1,4 +1,4 @@
-##  About Me
+##  About Me           
 <a href="https://www.linkedin.com/in/zainsiddiqui0071/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /><a>
 
 Hi! I am Zain — An Electronics & Embedded Systems Engineer based in the United Kingdom. 
@@ -25,7 +25,8 @@ Proven history of ownership and results in multiple organisations. My primary fo
 ###  Electronics Engineer | Woot Tech | Oct - Nov 2022 | Karachi, Pakistan
   ● Engineered high-power inverter and SMPS hardware with EMC-aware PCB layouts, delivering robust and efficient power-stage performance.<br>
   ● Supported debugging and fault investigation of power electronics systems, applying root-cause analysis to resolve field and lab failures efficiently.<br>
-  
+##  Skills
+
 ##  Projects
 [LoRa Mesh Network Using Zephyr RTOS](https://github.com/Zain-Ul-Islam-Siddiqui/LoRa-Mesh-Network-Zephyr)<br>
 [Industrial-Robotic-Arm-Controller](https://github.com/Zain-Ul-Islam-Siddiqui/Industrial-Robotic-Arm-Controller)<br>
@@ -34,8 +35,13 @@ Proven history of ownership and results in multiple organisations. My primary fo
 
 ##  Education
 ### MSc Microelectronic Systems | University of Liverpool | 2024 – 2025
-Dissertation: LoRa mesh network using ARM Cortex-M MCUs and Zephyr RTOS.<br>
+Dissertation: LoRa mesh network using ARM Cortex-M MCUs and Zephyr RTOS.
 ###  BSc in Electronics Engineering | Ghulam Ishaq Khan Institute | 2018–2022
-Dissertation: Rotary Inverted Pendulum (RIP) modelling and design using HIL and MATLAB.<br>
+Dissertation: Rotary Inverted Pendulum (RIP) modelling and design using HIL and MATLAB.
 
 ##  Certifications
+<div>
+<img src="https://img.shields.io/badge/Udemy–Embedded%20C-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+<img src="https://img.shields.io/badge/FEDEVEL%20Academy-Fundamentals%20of%20PCB%20Material%20Selection%20%26%20Stack--Up%20Design-0052CC?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Udemy-MOSFET%20Foundation%20Course-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+</div>
