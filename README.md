@@ -29,13 +29,14 @@ I’m continuously developing my technical depth with the long-term goal of beco
 -  Developed portable ground control stations for field operation of indigenous UAVs. 
 
 ## Technical Skills 
-**Embedded Systems:** <pre>  Embedded C/C++, ARM Cortex-M, STM32, Zephyr RTOS</pre><br>
-**Hardware Design:** <pre>  Analog & Digital Circuit Design, Power Electronics, Motor Control</pre><br>
-**PCB Design:** <pre>  Multi-layer PCB Layout, EMC-aware design, Rigid & Flex PCBs</pre><br>
-**Simulation & Analysis:** <pre>  LTSpice, PSPICE for TI, Signal Integrity Analysis</pre><br>
-**Debugging & Bring-up:** <pre>  Oscilloscope, Logic Analyzer, Bench Testing</pre><br>
-**Protocols:** <pre>  I2C, SPI, UART, CAN, Ethernet, RS232, RS485, MIPI-CSI/DSI</pre><br>
+**Embedded Systems:** Embedded C/C++, ARM Cortex-M, STM32, Zephyr RTOS
+**Hardware Design:** Analog & Digital Circuit Design, Power Electronics, Motor Control
+**PCB Design:** Multi-layer PCB Layout, EMC-aware design, Rigid & Flex PCBs
+**Simulation & Analysis:** LTSpice, PSPICE for TI, Signal Integrity Analysis
+**Debugging & Bring-up:** Oscilloscope, Logic Analyzer, Bench Testing
+**Protocols:** I2C, SPI, UART, CAN, Ethernet, RS232, RS485, MIPI-CSI/DSI
 
+**add pictures**
 ##  Projects
 [LoRa Mesh Network Using Zephyr RTOS](https://github.com/Zain-Ul-Islam-Siddiqui/LoRa-Mesh-Network-Zephyr)<br>
 → Long-range multi-hop IoT communication network built on ARM Cortex-M microcontrollers and Zephyr RTOS.<br>
@@ -45,9 +46,8 @@ I’m continuously developing my technical depth with the long-term goal of beco
 → Multi-chemistry Battery Management System with balancing, fault detection, EMC-conscious analog front-end, protections, and telemetry.<br>
 [Synchronous-Interleaved-Buck-Boost-Converter](https://github.com/Zain-Ul-Islam-Siddiqui/Synchronous-Interleaved-Buck-Boost-Converter)<br>
 → Automotive grade high-current converter (vibration & thermal considerations) with synchronous MOSFET driving and interleaved power stages.<br>
-3KVA SVPWM Inverter
-
-
+[3KVA SVPWM Inverter](https://github.com/Zain-Ul-Islam-Siddiqui/Synchronous-Interleaved-Buck-Boost-Converter)
+→ Something
 
 ##  Certifications
 <div>
