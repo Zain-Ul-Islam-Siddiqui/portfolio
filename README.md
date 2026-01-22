@@ -29,12 +29,12 @@ I’m continuously developing my technical depth with the long-term goal of beco
 -  Developed portable ground control stations for field operation of indigenous UAVs. 
 
 ## Technical Skills 
-**Embedded Systems:** <pre>  Embedded C/C++, ARM Cortex-M, STM32, Zephyr RTOS</pre>
-**Hardware Design:** <pre>  Analog & Digital Circuit Design, Power Electronics, Motor Control</pre>
-**PCB Design:** <pre>  Multi-layer PCB Layout, EMC-aware design, Rigid & Flex PCBs</pre>
-**Simulation & Analysis:** <pre>  LTSpice, PSPICE for TI, Signal Integrity Analysis</pre>
-**Debugging & Bring-up:** <pre>  Oscilloscope, Logic Analyzer, Bench Testing</pre>
-**Protocols:** <pre>  I2C, SPI, UART, CAN, Ethernet, RS232, RS485, MIPI-CSI/DSI</pre>
+**Embedded Systems:** <pre>  Embedded C/C++, ARM Cortex-M, STM32, Zephyr RTOS</pre><br>
+**Hardware Design:** <pre>  Analog & Digital Circuit Design, Power Electronics, Motor Control</pre><br>
+**PCB Design:** <pre>  Multi-layer PCB Layout, EMC-aware design, Rigid & Flex PCBs</pre><br>
+**Simulation & Analysis:** <pre>  LTSpice, PSPICE for TI, Signal Integrity Analysis</pre><br>
+**Debugging & Bring-up:** <pre>  Oscilloscope, Logic Analyzer, Bench Testing</pre><br>
+**Protocols:** <pre>  I2C, SPI, UART, CAN, Ethernet, RS232, RS485, MIPI-CSI/DSI</pre><br>
 
 ##  Projects
 [LoRa Mesh Network Using Zephyr RTOS](https://github.com/Zain-Ul-Islam-Siddiqui/LoRa-Mesh-Network-Zephyr)<br>
