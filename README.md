@@ -54,7 +54,7 @@ I’m continuously developing my technical depth with the long-term goal of beco
 <img src="https://img.shields.io/badge/Udemy–Embedded%20C-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 <img src="https://img.shields.io/badge/FEDEVEL%20Academy-Fundamentals%20of%20PCB%20Material%20Selection%20%26%20Stack--Up%20Design-0052CC?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Udemy-MOSFET%20Foundation%20Course-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-</div>
+</div><br>
 
 ## Lets Connect
 [LinkedIn](https://www.linkedin.com/in/zainsiddiqui0071/)<br>
